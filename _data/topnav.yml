@@ -14,5 +14,9 @@ topnav_dropdowns:
       folderitems:
         - title: Ingeniebrio IT
           url: /mydoc_introduction.html
+        - title: Linux
+          url: /linux_landing_page.html
+        - title: Windows
+          url: /windows_landing_page.html
 
 # Copyright 2021 Google LLC

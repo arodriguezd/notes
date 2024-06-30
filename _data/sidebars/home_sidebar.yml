@@ -9,7 +9,7 @@ entries:
     output: web
     folderitems:
     - title: Ingeniebrio IT
-      url: /mydoc_introduction.html
+      url: /index.html
       output: web
     - title: Linux
       url: /linux_landing_page.html

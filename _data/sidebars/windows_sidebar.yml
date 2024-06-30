@@ -1,0 +1,44 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Windows
+  product: Windows
+  version: 0.1
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /windows_landing_page.html
+      output: web
+
+#  - title: Applications
+#    output: web
+#    folderitems:
+#
+#    - title: SQL Server
+#      url: /windows_sqlserver.html
+#      output: web
+#
+#    - title: IIS
+#      url: /iis.html
+#      output: web
+#
+#
+#  - title: Windows Server
+#    output: web
+#    folderitems:
+#
+#    - title: Windows 2022
+#      url: /windows_2022.html
+#      output: web
+#
+#    - title: Windows 2019
+#      url: /windows_2019.html
+#      output: web
+
+
+# Copyright 2021 Google LLC
+                                        

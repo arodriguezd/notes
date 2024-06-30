@@ -1,0 +1,49 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Linux
+  version: 0.1
+  folders:
+
+  - title: Introduction
+    output: web
+    folderitems:
+    - title: Overview
+      url: /linux_landing_page.html
+      output: web
+
+
+  - title: Applications
+    output: web
+
+    folderitems:
+    - title: git
+      url: /linux_git.html
+      output: web
+
+    - title: gpg
+      url: /linux_gpg.html
+      output: web
+
+    - title: ssh
+      url: /linux_ssh.html
+      output: web
+
+#  - title: S.O.
+#    output: web
+#    folderitems:
+#
+#    - title: Ubuntu 
+#      url: /ubuntu.html
+#      output: web
+#
+#    - title: Debian
+#      url: /debian.html
+#      output: web
+#
+#    - title: Rocky
+#      url: /rocky.html
+#      output: web
+
