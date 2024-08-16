@@ -1,0 +1,58 @@
+site_name: Notes from an Ingeniebrio
+repo_url: https://github.com/arodriguezd/notes
+repo_name: arodriguezd/notes
+theme:
+  name: material
+  icon: 
+    logo: material/library
+  favicon: assets/images/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+
+  language: en
+
+
+  icon:
+    repo: fontawesome/brands/github
+
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: indigo
+      accent: indigo
+
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: green
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/arodriguezd
+
+
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+
+
+copyright: |
+  Copyright &copy; 2024 <a target="_blank" rel="noopener">Abner Rodriguez</a> | 
+  <a href="#__consent">Change cookie settings</a>
