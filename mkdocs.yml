@@ -1,7 +1,7 @@
 # Project information
 site_name: Notes from an Ingeniebrio
 site_url: https://notes.ingeniebrio.net
-site_author: Abner Rodriguez
+site_author: A. Rodriguez
 site_description: >-
   Notes from an Ingeniebrio is a collection of notes, tutorials, and guides
 
@@ -13,7 +13,7 @@ repo_url: https://github.com/arodriguezd/notes
 
 # Copyright
 copyright: |
-  Copyright &copy; 2024 <a target="_blank" rel="noopener">Abner Rodriguez</a> | 
+  Copyright &copy; 2025 <a target="_blank" rel="noopener">A. Rodriguez</a> | 
   <a href="#__consent">Change cookie settings</a>
 
 
@@ -81,7 +81,6 @@ theme:
     repo: fontawesome/brands/github
 
 
-
 # Additional configuration
 extra:
   status:
@@ -91,9 +90,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/arodriguezd
  
-
-
-
   consent:
     title: Cookie consent
     description: >- 
@@ -104,7 +100,6 @@ extra:
     actions:
       - accept
       - reject
-
 
 
 # Extensions
@@ -161,9 +156,6 @@ not_in_nav: |
   /tutorials/**/*.md
 
 
-
-
-
 # Page tree
 nav:
   - Home: index.md
@@ -192,7 +184,6 @@ nav:
     - GCP: cloud/gcp/gcp.md
     - GCP Services:
       - GCP CLI: cloud/gcp/services/gcpcli.md
-
 
   - Technologies:
     - Docker: technologies/docker.md
@@ -238,4 +229,3 @@ nav:
   - Hardware:
     - Raspberry Pi: hardware/raspberrypi.md
 
-  
